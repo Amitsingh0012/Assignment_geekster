@@ -13,5 +13,5 @@ This project is a Restaurant Management System implemented in Spring Boot, which
 * Spring Boot
 * Spring Data JPA
 * Spring Security
-#License
+# License
 This project is licensed under the MIT License - see the LICENSE file for details.
